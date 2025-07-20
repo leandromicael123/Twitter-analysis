@@ -17,7 +17,8 @@ twitter/
 
 │   └── treino.csv                 # Base de dados de tweets para treino/classificação
 ├── previsao_eleitoral_features.csv# Estatísticas agregadas dos candidatos
-Principais Funcionalidades
+
+# Principais Funcionalidades
 ## Classificação de Tweets:
 O arquivo classifica_tweets.py automatiza a classificação de tweets segundo regras específicas, usando o modelo deepseek-coder:6.7b-instruct via Ollama.
 ## Base de Dados:
