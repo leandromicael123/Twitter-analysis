@@ -6,6 +6,7 @@ Classificar tweets sobre política portuguesa usando modelos de IA.
 Gerar estatísticas e previsões eleitorais a partir dos dados dos tweets.
 Organizar e documentar os resultados para facilitar estudos e análises futuras.
 Estrutura do Projeto
+
 Text
 twitter/
 ├── classifica_tweets.py           # Script principal de classificação de tweets usando Ollama
